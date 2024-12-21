@@ -17,5 +17,5 @@ Com uma mente aberta e visão ampla, possuo vontade constante de aprender, sei q
 
 ![Tecnologias](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Tecnologias](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Tecnologias](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Tecnologias](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 
-![Kaux1 Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username={github.com/Kaux1}&theme=blue-green)
+
 
