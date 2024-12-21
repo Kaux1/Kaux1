@@ -11,6 +11,8 @@ Valorizo a colaboração e o feedback continuo vejo em cada desafio uma oportuni
 
 Com uma mente aberta e visão ampla, possuo vontade constante de aprender, sei que posso agregar valor à qualquer equipe na qual eu participe.
 
+Atualmente eu estou somente estudando buscando uma nova oportunidade para aplicar meus conhecimentos e aprender muito mais
+Sou universitario em graduação pelo *4 periodo no Centro Universitario Senac São Paulo.
 
 
 ###  Meus conhecimentos por enquanto são: 
