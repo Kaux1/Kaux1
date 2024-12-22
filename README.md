@@ -1,5 +1,5 @@
 
-# Olá! Eu sou Kauan Martins 👋
+# Seja bem vindo ao perfil Kauan Martins 👋
 
 ### Quem sou eu
 
